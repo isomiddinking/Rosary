@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+  }
+  #message {
+    color: green;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  button {
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 50px 0px 50px;
+    background-color: aquamarine;
+    color: rgb(63, 60, 57);
+    border: 2px solid rgb(38, 62, 62);
+  }
